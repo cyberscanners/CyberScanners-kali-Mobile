@@ -2,6 +2,6 @@
 
 $ pkg install wget
 
-$ git clong https://github.com/cyberscanners/CyberScanners-kali-Mobile.git
+$ git clone https://github.com/cyberscanners/CyberScanners-kali-Mobile.git
 
 $ 
