@@ -70,13 +70,9 @@ else
 fi
 
 
-# Update Termux & install dependencies
-# Download official nethunter install script (minimal rootfs)
-cd ~
-wget -O install-nethunter-termux https://offs.ec/2MceZWr
+wget https://etechbox.com/nethunter/install-nethunter-full
 
-chmod +x install-nethunter-termux
+chmod +x install-nethunter-full
 
-./install-nethunter-termux
-
+ ./install-nethunter-full
 
